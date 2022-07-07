@@ -44,10 +44,14 @@ h1 {
     padding: 20px 25px;
     background-color: rgb(27, 158, 167);
     border-radius: 8px;
+    margin-bottom: 3%;
+}
+
+.donate-button-top {
+    margin-top: 50px;
 }
 
 .text-group2 {
-    margin-top: 10%;
     background-position: center;
     text-align: center;
 }
@@ -66,6 +70,7 @@ h2 {
 .money-bite {
     display: flex;
     margin: 30px 0% 0 15%;
+
 }
 
 #one {
@@ -107,4 +112,9 @@ h2 {
     font-size: 30px;
     border-radius: 5px;
     margin-right: 5%;
+}
+
+.donate-button2 {
+    margin-top: 10%;
+    margin-left: 45%;
 }
