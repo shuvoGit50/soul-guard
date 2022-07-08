@@ -286,3 +286,53 @@ h5 {
     border-radius: 8px;
     margin-top: 20%;
 }
+
+.newsletter-part {
+    text-align: center;
+}
+
+.newsletter-div {
+    text-align: center;
+}
+
+#newsletter-title {
+    font-size: 30px;
+}
+
+.newsletter-para {
+    font-size: 15;
+}
+
+.newsletter-box {
+    background: linear-gradient(rgba(0, 0, 255, 0.185), rgba(255, 255, 0, 0.226), rgba(51, 196, 124, 0.233));
+    width: 500px;
+    padding: 60px;
+    text-align: center;
+    box-shadow: o o 20px #00000060;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#news-button {
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: aquamarine;
+
+
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.356);
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: white;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
