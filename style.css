@@ -166,6 +166,7 @@ h5 {
     padding: 40px 20px;
     margin-right: 10px;
     background-color: #49b8c733;
+    border-radius: 10px;
 }
 
 .shelter {
@@ -175,6 +176,7 @@ h5 {
     margin-right: 10px;
     margin-left: 10px;
     background-color: #a349c733;
+    border-radius: 10px;
 }
 
 .education {
@@ -183,4 +185,104 @@ h5 {
     padding: 40px 20px;
     margin-left: 10px;
     background-color: #c7954933;
+    border-radius: 10px;
+}
+
+.text-group4 {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.group4-text {
+    width: 4500px;
+    height: 400px;
+}
+
+.group4-img-div {
+    width: 350px;
+    height: 300px;
+    margin-left: 10%;
+
+
+}
+
+#g-four {
+    width: 100;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#lives-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.forth-para {
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+#contribute-btn {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    padding: 20px 25px;
+    background-color: rgb(27, 158, 167);
+    border-radius: 8px;
+    margin-top: 20%;
+}
+
+
+
+
+.text-group5 {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.group5-text {
+    width: 4500px;
+    height: 400px;
+    margin-right: 5%;
+}
+
+.group5-img-div {
+    width: 350px;
+    height: 300px;
+    margin-right: 10%;
+}
+
+#img-five {
+    width: 100;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+
+
+
+}
+
+#survive-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.fifth-para {
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+#contribute-btn {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    padding: 20px 25px;
+    background-color: rgb(27, 158, 167);
+    border-radius: 8px;
+    margin-top: 20%;
 }
