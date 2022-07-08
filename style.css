@@ -133,3 +133,54 @@ input {
     font-size: 20px;
     box-sizing: border-box;
 }
+
+.text-group3 {
+    margin-top: 10%;
+    background-position: center;
+    text-align: center;
+}
+
+.third-para {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.donation-plan {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    background-position: center;
+}
+
+h5 {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.food {
+    width: 280px;
+    height: 280px;
+    padding: 40px 20px;
+    margin-right: 10px;
+    background-color: #49b8c733;
+}
+
+.shelter {
+    width: 280px;
+    height: 280px;
+    padding: 40px 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #a349c733;
+}
+
+.education {
+    width: 280px;
+    height: 280px;
+    padding: 40px 20px;
+    margin-left: 10px;
+    background-color: #c7954933;
+}
