@@ -115,6 +115,21 @@ h2 {
 }
 
 .donate-button-middle {
-    margin-top: 10%;
-    margin-left: 45%;
+    margin-top: 5%;
+    margin-left: 43%;
+}
+
+.other-amount {
+    text-align: center;
+    margin: 40px 0 0 30px;
+    padding: 20px;
+
+    background-color: rgba(128, 128, 128, 0.308);
+}
+
+input {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
 }
